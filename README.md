@@ -11,3 +11,6 @@ Sheets created includes the fields or attributes accoring to th erequirement of 
 
 
 3)Create a new dashboard and drag all sheets on dashboards
+
+
+Can be viewwd on my Tableau public profile: https://public.tableau.com/app/profile/gayatri.kurulkar/viz/project1onamazonsalesdata/Dashboard1
